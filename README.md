@@ -7,8 +7,8 @@ Hosted via GitHub Pages — bilingual (DE/EN), German version legally binding.
 - **Nutzungsbedingungen / Terms of Use** → [`nutzungsbedingungen.html`](./nutzungsbedingungen.html)
 - **Impressum / Legal Notice** → [`impressum.html`](./impressum.html)
 
-Provider: Finn Klapper · Amrumer Str. 16, Apartment 57 · 13353 Berlin, Germany ·
-finn.klapper77@gmail.com
+Provider: TORCHTECHNOLOGY LTD · 25 Martiou 27, D. Michael Tower, Flat/Office 105A, Egkomi, 2408 Nicosia, Republic of Cyprus ·
+hello@torchtechnology.de
 
 > These documents are drafts tailored to the app's actual data processing and
 > reviewed for completeness, but they are **not a substitute for review by a
